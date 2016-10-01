@@ -1,0 +1,29 @@
+{
+  "productsList": [
+    {
+      "id": "a1",
+      "name": "Product1"
+    },
+    {
+      "id": "a2",
+      "name": "Product2"
+    },
+    {
+      "id": "a3",
+      "name": "Product3"
+    },
+    {
+      "id": "a4",
+      "name": "Product4"
+    },
+    {
+      "id": "a5",
+      "name": "Product5"
+    },
+    {
+      "id": "a6",
+      "name": "Product6"
+    }
+
+  ]
+}
