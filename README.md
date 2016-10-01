@@ -1,10 +1,10 @@
-# 
+# Redux example
 
-# install
+## install
 
 * `npm install`
 
-# run 
+## run 
 
 * run server
 * `npm start`
